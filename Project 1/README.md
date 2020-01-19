@@ -1,8 +1,8 @@
-##Context  
+## Context  
 
 This data set includes customers who have paid off their loans, who have been past due and put into collection without paying back their loan and interests, and who have paid off only after they were put in collection. The financial product is a bullet loan that customers should pay off all of their loan debt in just one time by the end of the term, instead of an installment schedule. Of course, they could pay off earlier than their pay schedule.  
 
-##Content   
+## Content   
 
 **Loan_id** A unique loan number assigned to each loan customers  
 
